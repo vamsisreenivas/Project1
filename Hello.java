@@ -1,7 +1,7 @@
 class Hello
 {
-	public static void main()
+	public static void main(String args[])
 	{
-		System.out.println("Hello World!Iam using GitHub for the first time!")
+		System.out.println("Hello World!Iam using GitHub for the first time!");
 	}
 }
