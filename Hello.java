@@ -2,6 +2,6 @@ class Hello
 {
 	public static void main()
 	{
-		System.out.println("Hello World!Iam using GitHub!")
+		System.out.println("Hello World!Iam using GitHub for the first time!")
 	}
 }
